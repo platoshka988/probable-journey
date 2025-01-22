@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    
+}
+header {
+   background-color: lightblue; 
+   border-radius: 20px;
+}
+main{
+color:gray
+}
+footer{
+background-color: aquamarine;
+}
+.rrr{
+   border:20px;
+   front-size:20px;
+ 
+}
+.rrr {
+  background-color: pink;
+   font-size: 20px;  
+}
+html {
+   text-decoration: none;
+}
